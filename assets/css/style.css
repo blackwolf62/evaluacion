@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #333;
-    background-image: url('/assets/img/fondo6.png');
+    background-image: url('./assets/img/fondo6.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
